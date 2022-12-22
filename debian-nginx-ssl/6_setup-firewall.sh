@@ -6,15 +6,3 @@
 #   This script is working with Debian              #
 #####################################################
 
-# Install web server
-apt install nginx -y
-# Install nano editor
-apt install nano -y
-# Install certbot for SSL
-apt install certbot python3-certbot-nginx -y
-
-# Install node js and npm
-if [ "$install_node" = true ] ; then
-  apt install node -y
-  apt install npm -y
-fi

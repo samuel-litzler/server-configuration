@@ -1,0 +1,1 @@
+To launch the script : (sudo if neccesary) bash 0_launch.sh

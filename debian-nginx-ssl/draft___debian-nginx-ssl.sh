@@ -1,38 +1,5 @@
 #!/bin/bash
 
-
-
-installNodeJs=false
-# Update system
-
-
-# Voir avec debian si besoin de la cmd
-# yum install epel-release
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #TODO script nodejs true
 # yum install nodejs
 
