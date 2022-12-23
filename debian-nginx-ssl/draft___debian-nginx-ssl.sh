@@ -11,15 +11,9 @@
 # npm install
 # nginx -t && nginx -s reload
 
-# npm install pm2 -g
 
-# pm2 start server.js --name api.jobbiz.fr --watch
 
-# yum -y install ufw
-# ufw default deny incoming
-# ufw default allow outgoing
-# ufw allow ssh
-# ufw allow https
+
 
 # pm2 list
 # pm2 dash api.jobbiz.fr

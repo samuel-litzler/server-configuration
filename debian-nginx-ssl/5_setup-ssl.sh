@@ -7,5 +7,5 @@
 #####################################################
 
 # Setup https
-certbot --nginx -d jobbiz.devfamily.fr -d www.jobbiz.devfamily.fr
+certbot --nginx -d $domain_name -d "www.$domain_name"
 #TODO -> automatiser les étapes de confirmation ?
